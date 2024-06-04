@@ -8,12 +8,9 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "typescript": "^4.9.5"
-  },
   "dependencies": {
     "@gnaudio/jabra-node-sdk": "^3.4.0",
     "node-gyp": "^10.1.0",
-    "webmidi": "^3.1.9"
+    "easymidi": "^3.1.0"
   }
 }
